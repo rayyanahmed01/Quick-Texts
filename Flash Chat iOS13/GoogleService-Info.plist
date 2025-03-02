@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDk-l0T3To1ZZmmJ-MMbRY52F7p4J8BPPs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>426775288502</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Rayyan.FlashChat-iOS-13</string>
+	<key>PROJECT_ID</key>
+	<string>flashchat-1bb83</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flashchat-1bb83.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:426775288502:ios:42329687746c8e7448e417</string>
+</dict>
+</plist>
